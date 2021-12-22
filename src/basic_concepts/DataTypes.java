@@ -13,6 +13,7 @@ public class DataTypes {
 		int marks;
 		int RollNum;
 		long PermanentNum;
+		int sum=0;
 		
 		// Boolean
 		boolean result;
