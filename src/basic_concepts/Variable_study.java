@@ -9,6 +9,9 @@ public class Variable_study {
 		RollNum=90;     //2.   variable initialization
 		System.out.println("My roll number is" + RollNum);    //3. variable usage
 		
+		
+		System.out.println("New line is" + RollNum); 
+		
 	}
 	
 	
